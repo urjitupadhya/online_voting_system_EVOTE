@@ -19,7 +19,6 @@ Evote is a blockchain-based voting system developed to ensure secure, transparen
 🛠️ Tech Stack
 
 Frontend: Flutter, Dart
-Backend: Django REST Framework
 Database: Firebase
 Blockchain: Ethereum / Solidity (Smart Contracts)
 Tools/Platforms: Android Studio, Visual Studio Code
@@ -42,7 +41,7 @@ Ganache / Hardhat (for blockchain testing)
 
 🚀 Getting Started
 Clone the Repository
-git clone https://github.com/your-username/evote-app.git
+git clone [https://github/evote-app.git](https://github.com/urjitupadhya/online_voting_system_EVOTE/edit/URJIT2024EVS)
 cd evote-app
 
 Backend Setup (Django + Blockchain)
