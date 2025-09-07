@@ -3,9 +3,9 @@ import 'package:http/http.dart';
 import 'package:web3dart/web3dart.dart';
 import 'package:online_voting_system/constants.dart';
 import 'package:online_voting_system/screens/election_creation_screen.dart';
-import 'package:online_voting_system/Information.dart'; // Import the InformationScreen
-import 'package:online_voting_system/screens/Election.dart'; // Import the ElectionScreen
-import 'package:online_voting_system/screens/AdminResult.dart'; // Import the AdminResultScreen
+import 'package:online_voting_system/screens/ElectionInformationScree.dart'; // Import the InformationScreen
+import 'package:online_voting_system/screens/election_creation_screen.dart'; // Import the ElectionScreen
+import 'package:online_voting_system/screens/result_screen.dart'; // Import the AdminResultScreen
 
 void main() {
   runApp(MyApp());
